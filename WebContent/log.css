@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+.tb{
+	background-color:sliver;
+	color:gold;
+}
+*{
+	padding:0;
+	margin:0;
+	font-family:sans-serif;
+}
+body{
+	background:url('./h.jpg') no-repeat;
+	background-size:cover;
+	color:#fff;
+	
+}

@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+.abc{
+	background-color:sliver;
+	color:gold
+	
+}
+#tbsubmit
+{
+	background-color:gold;
+	color:sliver
+}*{
+	padding:0;
+	margin:0;
+	font-family:sans-serif;
+}
+body{
+	background: url('./e.jpg') no-repeat;
+	background-size: cover;
+	color:#fff;
+	
+	
+}
+	
+	
